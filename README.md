@@ -34,3 +34,124 @@ If the LLM is at all competent at editing, it should know to edit the good books
 
 
 ## The Results
+
+
+### The Lateral Edits
+
+> a quadrangle paved with flags and lined by sordid dwellings
+
+> a quadrangle paved with flagstones and lined by sordid dwellings
+
+Trying to help the poor reader who won't know "flag" in this context, I suppose. But for the reader who does know, this is a nothing change.
+
+
+
+### The Bad Edits
+
+> “Wonderful!” I ejaculated.
+
+> “Wonderful!” I exclaimed.
+
+Watson's ejaculations are an iconic part of his character, not to be removed.
+
+<br>
+
+> He felt that that was to play his enemy’s game
+
+> He knew that dying would be playing right into his enemies' hands
+
+Whether or not that "that" was referring to *that*: idiotic replacement.
+
+
+
+### The Good Edits
+
+> “You appear to be astonished,” he said, smiling at my expression of surprise.
+
+> “You appear to be astonished,” he said, smiling at my expression.
+
+Good simple redundancy removal.
+
+<br>
+
+> …his eyes had assumed the vacant, lacklustre expression which showed mental abstraction.
+
+> …his eyes had assumed the vacant, lacklustre expression that betokened mental abstraction.
+
+Adding pomp where it's needed.
+
+<br>
+
+> It was a foggy, cloudy morning, and a dun-coloured veil hung over the housetops, looking like the reflection of the mud-coloured streets beneath.
+
+> It was a foggy, overcast morning, and a dun-coloured veil hung over the housetops, mirroring the mud-coloured streets beneath.
+
+Better word choice helps.
+
+<br>
+
+> a singularly simious and apelike appearance
+
+> a singularly simian appearance
+
+Monkey brain simplify.
+
+<br>
+
+> “And who do you expect will answer this advertisement.”
+
+> “And who do you expect will answer this advertisement?”
+
+Fixing up one instance of Conan Doyle's bizarre repeated forgetting of question marks.
+
+<br>
+
+> The Boots volunteered to show me the room: it was on the second floor, and there was a small corridor leading up to it.
+
+> The Boots volunteered to show me the room. It was on the second floor, down a small corridor.
+
+Trusting the reader a bit more.
+
+<br>
+
+> He took no particular notice of him, beyond thinking in his own mind that it was early for him to be at work.
+
+> He took no particular notice of him, beyond thinking it was early for him to be at work.
+
+Minding the reader's time.
+
+<br>
+
+> The young fellow seemed pleased at the suggestion, and his dark eyes sparkled with pleasure.
+
+> His dark eyes sparkled at the suggestion.
+
+The editor's eyes sparkled at the diff.
+
+<br>
+
+> lest something which fell from their lips might be misconstrued, and bring down a swift retribution upon them
+
+> lest a misconstrued word bring down a swift retribution upon them
+
+
+
+<br>
+
+> With his fears all changed to convictions, he hurried on.
+
+> With his fears turning into terrible conviction, he hurried forward.
+
+Stronger language helps.
+
+<br>
+
+> He therefore accosted him when he got up to him
+
+> He stepped forward to accost the man as he drew near
+
+
+
+<br>
+
+
