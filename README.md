@@ -44,6 +44,44 @@ If the LLM is at all competent at editing, it should know to edit the good books
 
 Trying to help the poor reader who won't know "flag" in this context, I suppose. But for the reader who does know, this is a nothing change.
 
+> “I have been wanting to speak to you, Jekyll,” began the latter.
+> “I have been wanting to speak to you, Jekyll,” began the lawyer.
+
+> as he crossed the theatre
+> as he crossed the anatomical theatre
+
+> conferred on me the freedom of the neighbourhood
+> conferred on me the freedom of the neighborhood
+
+> everything afterward savours of anticlimax
+> everything afterward savors of anticlimax
+
+> “I’m p-paralysed with happiness.”
+> “I’m p-paralyzed with happiness.”
+
+> who seemed to have mastered a certain hardy scepticism
+> who seemed to have mastered a certain hardy skepticism
+
+> her white roadster was beside the kerb
+> her white roadster was beside the curb
+
+> the colour came back to his cheeks
+> the color returned to his cheeks.
+
+> “Don’t talk so much, old sport,” commanded Gatsby. “Play!”
+> “Don’t talk so much, old sport,” commanded Gatsby gently. “Just play.”
+
+> Dundy asked: “Well, what happened then?”
+> “Well, what happened then?” Dundy asked.
+
+> fixed a pillow under her head
+> fluffed a pillow under her head
+
+> “Foolish child! foolish child!”
+> “Foolish child! Foolish child!”
+
+> They were carrying tables out and setting them up under the arcade.
+> They were carrying tables out and setting them up under the arches.
 
 
 ### The Bad Edits
@@ -62,6 +100,89 @@ Watson's ejaculations are an iconic part of his character, not to be removed.
 
 Whether or not that "that" was referring to *that*: idiotic replacement.
 
+> His reading had been tremendous.
+> He read voraciously.
+
+> he had studied and considered what navigation there was in books
+> he had devoured what books on navigation he could find
+
+> He was not prepared for this change of idea. He was staggered at such a revolt against his preconceptions.
+> He was staggered by this subversion of his expectations.
+
+> Hear the pounding of the frogs.
+> Hear the piping of the frogs.
+
+> Strong, glistening blacks pulled at the oars of the canoe
+> Strong, glistening men pulled at the oars of the canoe
+
+> “A good, swift sailor,” Henry observed
+> “She looks a good, swift sailor,” Henry observed
+
+> Marvelous plan! Genius of an officer!
+> A marvelous plan! The genius of an officer!
+
+> Henry Morgan was aroused.
+> Henry Morgan flushed with anger.
+
+> He bowed his head, then raised it with a chuckle.
+> He bowed his head, then raised it with a dark chuckle.
+
+> And money was really worth more than money.
+> And money meant so much more than the metal it was stamped on.
+
+> He spoke jocosely.
+> He spoke with a grim, forced lightness.
+
+> He was pale, and there were dark signs of sleeplessness beneath his eyes.
+> He was terribly pale, with dark signs of sleeplessness bruising the skin beneath his eyes.
+
+> “That huge place *there*?” she cried pointing.
+> “That huge place *there*?” she cried, pointing across the lawn.
+
+> the whole caravansary had fallen in like a card house
+> the whole caravansary had collapsed like a house of cards
+
+> The day-coach﻿—he was penniless now﻿—was hot.
+> The day-coach was stiflingly hot, and he was penniless now.
+
+> His face was stupid in its calmness.
+> His face was stolid in its calmness.
+
+> You look like you’d swallowed the canary.
+> You look like the cat that swallowed the canary.
+
+> The youth loitered with other loiterers
+> The youth mingled with the other loiterers
+
+> Spade was stupid. “How what?”
+> Spade played dumb. “How what?”
+
+> “Do they bully you, then?” I asked, smiling.
+> “Do they bully you, then?” I asked.
+
+> There was a little stir of excitement.
+> A murmur of excitement rippled through the room.
+
+> their pride held them inexorably apart
+> their pride held them inexroxably apart
+
+> Against the shell of her ear broke the waves of worldly cunning
+> The waves of worldly cunning broke against the shell of her ear
+
+> Lady Narborough hit him with her fan.
+> Lady Narborough tapped him with her fan.
+
+> There was something comforting and really friendly
+> There was something comforting and genuinely friendly
+
+> He stood up from the table his face white, and stood there white and angry
+> He stood up from the table, his face white, and stood there angry
+
+> “Your friend, is he aficionado, too?”
+> “Your friend, is he an aficionado, too?”
+
+> “Your frients haff gone upstairs,”
+> “Your friends have gone upstairs,”
 
 
 ### The Good Edits
@@ -154,4 +275,56 @@ Stronger language helps.
 
 <br>
 
+
+> The afternoon passed slowly, procession-like with an end of evening, and on the heels of the evening an excited wind rushed out
+> The afternoon passed slowly, a solemn procession toward evening. On its heels, an excited wind rushed out,
+
+
+> This play of claque to a simpleton was a harsh tax on the convictions of Mother Morgan.
+> This pantomime of awe was a harsh tax on the convictions of Mother Morgan.
+
+> The windows were not glazed nor curtained.
+> The windows were neither glazed nor curtained.
+
+> Suddenly there came a flash of anger into his eyes.
+> A sudden flash of anger lit his eyes.
+
+> with sad brown eyes like a dog’s eyes
+> with sad brown eyes like a hound's
+
+> There is a woman in Panama and she is lovely as the sun. They call her the Red Saint in Panama.
+> There is a woman in Panama, and she is lovely as the sun. They call her the Red Saint.
+
+> Misery was writing lines about his eyes.
+> Misery etched deep lines around his eyes.
+
+> I may not be happier, but there is more content on me.
+> I may not be happier, but there is more contentment in me.
+
+> She had sprung away from him.
+> She sprang away from him.
+
+> “That is a humorous alternative, Sire. It is a conversational trick to gain a smile—no more.”
+> “A humorous alternative, Sire. A conversational trick to gain a smile—nothing more.”
+
+> Such unscientific balderdash,” added the doctor, flushing suddenly purple, “would have estranged Damon and Pythias.”
+> Such unscientific balderdash,” added the doctor, flushing purple, “would have estranged Damon and Pythias.”
+
+> she is luckily too poor to be an object of prey to anybody
+> she is luckily too poor to fall prey to any fortune-hunter
+
+> “Nothing happened,” he said wanly.
+> “Nothing happened,” he said, his voice hollow.
+
+> I ejaculated an unrestrained “Huh!”
+> I let out an unrestrained “Huh!”
+
+> “Silly ass!” I ejaculated.
+> “Silly ass!” I exclaimed.
+
+> Mary even thought she saw him wink his eyes as if to wink tears away.
+> Mary even thought she saw him blink as if to keep tears away.
+
+> Mary hesitated about two minutes and then boldly spoke the truth.
+> Mary hesitated for a long moment, and then boldly spoke the truth.
 
