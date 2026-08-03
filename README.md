@@ -83,6 +83,24 @@ Trying to help the poor reader who won't know "flag" in this context, I suppose.
 > They were carrying tables out and setting them up under the arcade.
 > They were carrying tables out and setting them up under the arches.
 
+> some had leaders upon it
+> some had leading articles upon it
+
+> they had to travel in Indian file
+> they had to travel in single file
+
+> “Hurry on! hurry on!” he gasped from time to time.
+> “Hurry on! Hurry on!” he gasped from time to time.
+
+> Oh! but I cannot, cannot stay.
+> Oh! But I cannot, cannot stay.
+
+> revolved it slowly, tracing, like the leg of transit, a thin red circle
+> revolved it slowly, tracing, like the leg of a compass, a thin red circle
+
+> Sounded as to the possibility of suicide, he repudiated it utterly.
+> Questioned as to the possibility of suicide, he repudiated it utterly.
+
 
 ### The Bad Edits
 
@@ -183,6 +201,27 @@ Whether or not that "that" was referring to *that*: idiotic replacement.
 
 > “Your frients haff gone upstairs,”
 > “Your friends have gone upstairs,”
+
+> breaking in on his friends’ thoughts with an apropos remark
+> breaking in on his friends’ thoughts with an à-propos remark
+
+> “Tell him I cannot see anyone,” it said complainingly.
+> “Tell him I cannot see anyone,” it said complain ingly.
+
+> It is a truth universally acknowledged, that a single man in possession of a good fortune, must be in want of a wife.
+> It is a truth universally acknowledged that a single man in possession of a good fortune must be in want of a wife.
+
+> “How can you contrive to write so even?”
+> “How can you contrive to write so evenly?”
+
+> a weather-beaten cardboard bungalow at eighty a month
+> a weather-beaten cardboard bungalow at eighty dollars a month
+
+> he’d of got me sure.
+> he’d have got me sure.
+
+> “Taken who to prison?”
+> “Taken whom to prison?”
 
 
 ### The Good Edits
@@ -327,4 +366,40 @@ Stronger language helps.
 
 > Mary hesitated about two minutes and then boldly spoke the truth.
 > Mary hesitated for a long moment, and then boldly spoke the truth.
+
+> The old Guiacum test was very clumsy and uncertain.
+> The old guaiacum test was very clumsy and uncertain.
+
+> the unemotional Indians, journeying in with their pelties
+> the unemotional Indians, journeying in with their peltries
+
+> a degree in science or any other recognized portal which would give him an entrance into the learned world
+> a degree in science or any other recognized avenue into the learned world
+
+> “How is it now?” he answered anxiously
+> “How is it now?” he asked anxiously
+
+> Spaniards strangled Edward Mansveldt on the garotte
+> Spaniards strangled Edward Mansveldt on the garrote
+
+> Thus said the whispering.
+> Thus went the whisper.
+
+> And this young man answered his orders with a smile at Captain Morgan.
+> And this young man answered his orders with a smile.
+
+> “No,” answered his mother with a placid expression in her face.
+> “No,” answered his mother with a placid expression.
+
+> she looks like an *edition de luxe* of a bad French novel
+> she looks like an *édition de luxe* of a bad French novel
+
+> When she pulled it the silk curtain ran back on rings and when it ran back it uncovered a picture.
+> When she pulled it, the silk curtain ran back on rings, uncovering a picture.
+
+> Also, playing for higher stakes than he could afford in some rather steep bridge games with his New York connections, he had held cards and won several hundred dollars.
+> Also, in some rather steep bridge games with his New York connections, he had held cards and won several hundred dollars.
+
+> on our way down to the Ile Saint Louis
+> on our way down to the Île Saint-Louis
 
